@@ -30,6 +30,6 @@ entries:
     sources:
     - https://github.com/alibaba/nacos
     urls:
-    - nacos-2.1.5.tgz
-    version: 2.1.5
+    - nacos-2.1.4.tgz
+    version: 2.1.4
 generated: "2023-10-07T17:29:55.664782963+08:00"
